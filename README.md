@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portify — Personal Portfolio Builder
 
 A responsive React + Vite project inspired by modern Dribbble portfolio layouts. It includes a user module, admin module, local-storage authentication, three portfolio templates, a portfolio editor, and a preview page.
@@ -56,3 +57,6 @@ For a frontend-only Vite app, client-side routes may need a rewrite. If a deploy
   "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
 ```
+=======
+# portify-react-vite-project
+>>>>>>> 49b7dc7cba4caf55da142e2f5915b0dc30c17fbb
